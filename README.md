@@ -1,1 +1,1 @@
-# georgehagi.github.io
+# georgehagi.github.com
