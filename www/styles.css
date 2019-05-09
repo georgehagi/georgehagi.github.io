@@ -1,0 +1,13 @@
+
+h1 {
+    font-size: 250%;
+    font-weight: bold;
+    color: black;
+}
+
+body {
+    background:#e9eeed;
+    color: black
+    font-size: 18pt;
+    font-family: 'Noto Sans', sans-serif;
+}
